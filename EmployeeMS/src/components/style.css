@@ -1,0 +1,17 @@
+.loginPage {
+    background: url(images/lawbg2.jpg);
+    background: linear-gradient(rgba(11,11,11,0.5)), rgba(10, 10, 10, 0.5), url(images/lawbg2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 120%;
+}
+
+.loginForm {
+    background-color: rgba(1, 32, 96, 0.6);
+    color: #fff;
+}
+
+#menu li:hover {
+    background-color: #9e9090;
+    color: #000;
+}
